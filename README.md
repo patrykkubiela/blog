@@ -1,2 +1,0 @@
-# blog
-Static blog repository
