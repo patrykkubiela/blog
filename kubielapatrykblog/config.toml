@@ -1,0 +1,4 @@
+baseURL = "https://kubielapatryk.github.io/"
+languageCode = "en-us"
+title = "Kubiela Patryk"
+theme = "KeepIt"
