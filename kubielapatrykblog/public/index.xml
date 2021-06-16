@@ -1,49 +1,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bento</title>
-    <link>https://www.example.com/</link>
+    <link>/</link>
     <description>Recent content on Bento</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>MIT</copyright>
     <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>https://www.example.com/posts/</link>
+      <link>/posts/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/posts/</guid>
+      <guid>/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://www.example.com/post/</link>
+      <link>/post/</link>
       <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archives</title>
-      <link>https://www.example.com/archives/</link>
+      <link>/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/archives/</guid>
+      <guid>/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.example.com/about/</guid>
+      <guid>/about/</guid>
       <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;&gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
 &lt;ul&gt;
