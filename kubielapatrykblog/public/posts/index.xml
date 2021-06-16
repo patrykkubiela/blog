@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bento</title>
+    <link>https://www.example.com/posts/</link>
+    <description>Recent content in Posts on Bento</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>MIT</copyright>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Patryk Kubiela Post</title>
+      <link>https://www.example.com/posts/fistone/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/posts/fistone/</guid>
+      <description>&lt;p&gt;This is first post&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
